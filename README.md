@@ -7,5 +7,5 @@ general python packages
 # Installation from pypi
 To install the package from pypi simple run
 ```
-pip install pymirc
+pip install liverbbox
 ```
