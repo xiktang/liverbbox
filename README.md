@@ -3,7 +3,9 @@ This repository is created to automatically generate the bounding box for the li
 # Authors
 xikai.tang@kuleuven.be
 # Requirements
-general python packages
+general python packages:
+numpy
+scipy
 # Installation from pypi
 To install the package from pypi simple run
 ```
